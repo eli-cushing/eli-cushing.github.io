@@ -1,0 +1,25 @@
+Folder PATH listing for volume Windows
+Volume serial number is 6E64-BC57
+C:\USERS\ELI\DOCUMENTS\RABBITBYTES
+|   .gitignore
+|   404.html
+|   images.html
+|   index.html
+|   
++---assets
+|   +---css
+|   |       styles.css
+|   |       
+|   +---images
+|   |       charmeleon-ec.png
+|   |       clefairy-ec.png
+|   |       rabbit-logo-dall-e.webp
+|   |       togepi-ec.jpg
+|   |       varied-rabbit-logos.webp
+|   |       
+|   \---js
+|           script.js
+|           
+\---docs
+        folder-structure.txt
+        
